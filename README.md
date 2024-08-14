@@ -61,6 +61,7 @@ Here is a screenshot of the application in action:
 ![Note Taker Screenshot](public/assets/images/note-taker-app.gif)
 
 ## Credits
+My Tutor Andru Sanchez!
 
 This application was developed by [Sam Kachergius](https://github.com/ogchromebook).
 
