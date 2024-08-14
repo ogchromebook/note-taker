@@ -4,7 +4,7 @@
 
 The Note Taker Application is a simple, yet powerful tool that allows users to write, save, and delete notes. This application was developed with the motivation to create an intuitive and efficient way to manage notes digitally. It solves the problem of disorganization and clutter by providing a centralized platform to store notes securely. Through this project, I learned how to work with Express.js, manage file operations in Node.js, and implement RESTful API routes.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -58,7 +58,7 @@ To use the Note Taker Application:
 
 Here is a screenshot of the application in action:
 
-![Note Taker Screenshot](assets/note-taker-app.gif)
+![Note Taker Screenshot](public/assets/images/note-taker-app.gif)
 
 ## Credits
 
